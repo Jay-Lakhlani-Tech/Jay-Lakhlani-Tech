@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Jay-Lakhlani-Tech
+- 👀 I’m interested in web development...
+- 🌱 I’m currently learning the basics of web like HTML and CSS ...
+- 💞️ I’m looking to collaborate on small and simple ideas ...
+
+<!---
+Jay-Lakhlani-Tech/Jay-Lakhlani-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
